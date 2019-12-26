@@ -1,0 +1,54 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 458880383,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 367900015,
+          "is_bot": false,
+          "first_name": "Svitlana",
+          "last_name": "Ripa",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": 367900015,
+          "first_name": "Svitlana",
+          "last_name": "Ripa",
+          "type": "private"
+        },
+        "date": 1575546308,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 458880384,
+      "message": {
+        "message_id": 13,
+        "from": {
+          "id": 367900015,
+          "is_bot": false,
+          "first_name": "Svitlana",
+          "last_name": "Ripa",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": 367900015,
+          "first_name": "Svitlana",
+          "last_name": "Ripa",
+          "type": "private"
+        },
+        "date": 1575554337,
+        "text": "привет"
+      }
+    }
+  ]
+}
